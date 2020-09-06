@@ -1,0 +1,151 @@
+#auk-msg-close-btn{
+    background-color: #121212;
+    border-radius: 5px;
+    color: #eee;
+    font-weight: bold;
+    padding: 10px 35px;
+    cursor: pointer;
+    }
+    
+    #auk-msg-close-btn:hover{
+    background-color: #eee;
+    border: 2px solid #121212;
+    color: #121212;
+    }
+
+    .iframe-container{
+position: relative;
+width: 100%;
+padding-bottom: 56.25%; 
+height: 0;
+}
+.iframe-container iframe{
+position: absolute;
+top:0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+
+.button:hover{
+background-color: #fff;
+color: #02a6d4!important;
+font-weight: bold;
+border: #02a6d4 1px solid;
+}
+
+.button{
+margin: 5px;
+background-color: #02a6d4;
+padding: 10px 30px 10px 30px;
+font-size: 12px;
+color: #fff!important;
+border-radius: 20px;
+text-decoration: none;
+}
+
+.button-choose:hover{
+background-image: linear-gradient(160deg,#eee,rgba(0,0,0,0.2));
+color: rgb(255, 21, 0)!important;
+font-weight: bold;
+border: #920000 1px solid;
+}
+
+.button-choose{
+margin: 5px;
+background-image: linear-gradient(160deg,rgb(255, 21, 0), #920000);
+padding: 10px 20px 10px 20px;
+font-size: 12px;
+font-weight: 600;
+color: #fff!important;
+text-decoration: none;
+}
+
+
+.auk-main-gallery{
+display:flex;
+flex-direction:row;
+flex-wrap: wrap;
+justify-content: left;
+
+width: 97%;
+text-align: center;
+  margin-left: 15px;
+}
+
+.auk-item{
+margin: 0 6px 6px 0;
+width: 150px;
+background-color: #121212;
+border-radius: 4px;
+}
+
+.auk-itemImage img{
+width: 100%;
+height: 80px;
+border-radius: 3px;
+}
+
+.auk-item-other{
+margin: 0 6px 6px 0;
+width: 120px;
+background-color: #121212;
+border-radius: 4px;
+}
+
+.auk-itemImage-other img{
+width: 100%;
+height: 80px;
+border-radius: 3px;
+}
+
+.auk-itemTitle{
+margin: 0;
+padding: 10px;
+font-size: 12px;
+  font-weight: bold;
+}
+
+@media only screen and (max-width: 700px) {
+
+.auk-main-gallery{
+    flex-direction: column;
+}  
+
+.auk-item, .auk-item-other{
+    display:flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    align-items: center;
+
+    width: 100%;
+    min-height: 70px;
+}
+
+.auk-itemImage img, .auk-itemImage-other img{
+    width: 130px;
+    height: 70px;
+}
+
+.auk-itemTitle{
+    font-size: 15px;
+}
+
+}
+
+.show-hide-btn{
+background-color: #121212;
+color: #eee;
+border: 2px solid #eee;
+cursor: pointer;
+border-radius: 5px;
+font-weight: bold;
+padding: 5px 40px;
+margin: 0;
+float: right;
+}
+
+.show-hide-btn:hover{
+background-color: #eee;
+color: #121212;
+}

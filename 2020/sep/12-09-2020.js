@@ -30,7 +30,7 @@ const auk_other_tele_image = {
         naadi: 'https://i.ibb.co/s9hykM1/Naadi.jpg',//Naadi - 29
         agniPiyapath: 'https://i.ibb.co/v4LdS2C/Agni-Piyapath.jpg',//Agni Piyapath - 30
         sirasaTvKisa: 'https://i.ibb.co/gwFr4Xb/kisa.jpg',//Sirasa Tv Kisa - 31
-        sasaraKinnaravi: 'https://i.ibb.co/j8MhVc8/8z-Lux-A9o-LMsd.jpg'//Sasara Kinnaravi - 32
+        sasaraKinnaravi: 'https://i.ibb.co/RTXMMjP/sasara-kinnaravi.jpg'//Sasara Kinnaravi - 32
         };
 
 auk_dayly_tele_week = [

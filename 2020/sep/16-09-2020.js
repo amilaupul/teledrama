@@ -6,6 +6,7 @@ const auk_other_tele_image = {
         sithAhaseAdaren: 'https://i.ibb.co/9tgC4kL/sith-ahase-adaren.jpg',//Sith Ahase Adaren - 4
         adareiManAdarei: 'https://i.ibb.co/HPzT3rg/Adarei-Man-Adarei-Episode-2020-July-min.png',//Adarei Man Adarei - 5
         miniPahanaObai: 'https://i.ibb.co/DYQjm1r/mini-pahana-obai-episode.jpg',//Mini Pahana Obai - 6
+        dharani: 'https://i.ibb.co/gTQNZgX/f-Iu2-Cz1bs-Johq.jpg',//Dharani - 7
         agra: 'https://i.ibb.co/SK2rK84/JRIHn-Fk-Kjq8hd.jpg',//Agra - 8
         ahasMaliga: 'https://i.ibb.co/THWDhRC/Ahas-Maliga.jpg',//Ahas Maliga - 9
         deweniInima: 'https://i.ibb.co/VqWfRvc/Deweni-Inima-Episode-2020-July-min.png',//Deweni Inima - 10
@@ -43,6 +44,7 @@ auk_dayly_tele_week = [
   ['Ahas Maliga 672', '/2020/09/hiru-tv-ahas-maliga-ep672.html', 'ahasMaliga'],
   ['Deweni Inima 906', '/2020/09/tv-derana-deweni-inima-ep906.html', 'deweniInima'],
   ['Sangeethe 367', '/2020/09/tv-derana-sangeethe-ep367.html', 'sangeethe'],
+  ['Dharani 02', '/2020/09/tv-derana-dharani-ep02.html', 'dharani'],
   ['Neela Pabalu 576', '/2020/09/sirasa-tv-neela-pabalu-ep576.html', 'neelaPabalu'],
   ['Sihina Samagama 77', '/2020/09/swarnavahini-sihina-samagama-ep77.html', 'sihinaSamagama'],
   ['Hadawathe Kathawa 177', '/2020/09/swarnavahini-hadawathe-kathawa-ep177.html', 'hadawatheKathawa'],

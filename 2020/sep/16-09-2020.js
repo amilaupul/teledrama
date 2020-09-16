@@ -44,7 +44,7 @@ auk_dayly_tele_week = [
   ['Ahas Maliga 672', '/2020/09/hiru-tv-ahas-maliga-ep672.html', 'ahasMaliga'],
   ['Deweni Inima 906', '/2020/09/tv-derana-deweni-inima-ep906.html', 'deweniInima'],
   ['Sangeethe 367', '/2020/09/tv-derana-sangeethe-ep367.html', 'sangeethe'],
-  ['Dharani 02', '/2020/09/tv-derana-dharani-ep02.html', 'dharani'],
+  ['Dharani 03', '/2020/09/tv-derana-dharani-ep03.html', 'dharani'],
   ['Neela Pabalu 576', '/2020/09/sirasa-tv-neela-pabalu-ep576.html', 'neelaPabalu'],
   ['Sihina Samagama 77', '/2020/09/swarnavahini-sihina-samagama-ep77.html', 'sihinaSamagama'],
   ['Hadawathe Kathawa 177', '/2020/09/swarnavahini-hadawathe-kathawa-ep177.html', 'hadawatheKathawa'],

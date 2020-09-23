@@ -72,4 +72,4 @@ auk_dayly_tele_week_end = [
     ['Sasara Kinnaravi 12', '/2020/09/rupavahini-sasara-kinnaravi-ep12.html', 'sasaraKinnaravi']
 ];
 
-auk_not_video = "<div style="background-image: linear-gradient(160deg,rgb(255, 21, 0), #920000);"><p style="text-align: center; font-size: 20px; font-weight: 900; color: #eee; padding: 20px 5px;">කතාව තාම දැම්මෙ නෑ. පසුව නැවත පැමිණෙන්න.</p></div>";
+auk_not_video = '<div style="background-image: linear-gradient(160deg,rgb(255, 21, 0), #920000);"><p style="text-align: center; font-size: 20px; font-weight: 900; color: #eee; padding: 20px 5px;">කතාව තාම දැම්මෙ නෑ. පසුව නැවත පැමිණෙන්න.</p></div>';

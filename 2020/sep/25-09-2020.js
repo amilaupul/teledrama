@@ -52,10 +52,10 @@ auk_dayly_tele_week = [
   ['Maha Viru Pandu 70', '/2020/09/hiru-tv-maha-viru-pandu-ep70.html', 'mahaViruPandu'],
   ['Pulingu 37', '/2020/09/itn-pulingu-ep37.html', 'pulingu'],
   ['Sihini 108', '/2020/09/itn-sihini-ep108.html', 'sihini'],
-  ['Sakala Guru 160', '/2020/09/rupavahini-sakala-guru-ep160.html', 'sakalaGuru'],
+  ['Sakala Guru 158', '/2020/09/rupavahini-sakala-guru-ep158.html', 'sakalaGuru'],
   ['Honda Wade 25', '/2020/09/swarnavahini-honda-wade-ep25.html', 'hondaWade'],
   ['Api Ape 35', '/2020/09/sirasa-api-ape-ep35.html', 'apiApe'],
-  ['ITN Naadi 27', '/2020/09/itn-naadi-ep27.html', 'naadi'],
+  ['ITN Naadi 28', '/2020/09/itn-naadi-ep28.html', 'naadi'],
   ['Agni Piyapath 35', '/2020/09/swarnavahini-agini-piyapath-ep35.html', 'agniPiyapath']
 ];
 

@@ -55,7 +55,7 @@ auk_dayly_tele_week = [
   ['Sakala Guru 161', '/2020/09/rupavahini-sakala-guru-ep161.html', 'sakalaGuru'],
   ['Honda Wade 28', '/2020/09/swarnavahini-honda-wade-ep28.html', 'hondaWade'],
   ['Api Ape 38', '/2020/09/sirasa-api-ape-ep38.html', 'apiApe'],
-  ['ITN Naadi 31', '/2020/09/itn-naadi-ep31.html', 'naadi'],
+  ['ITN Naadi 30', '/2020/09/itn-naadi-ep30.html', 'naadi'],
   ['Agni Piyapath 38', '/2020/09/swarnavahini-agini-piyapath-ep38.html', 'agniPiyapath']
 ];
 

@@ -65,7 +65,7 @@ auk_dayly_tele_week_end = [
     ['Agra 13', '/2020/10/sirasa-tv-agra-ep13.html', 'agra'],
   	['Sathya 29', '/2020/10/itn-sathya-ep29.html', 'sathya'],
   	['Giridevi 58', '/2020/10/itn-giridevi-ep58.html', 'giriDevi'],
-  	['Garuda Muhurthaya 16', '/2020/10/int-garuda-muhurthaya-ep16.html', 'garudaMuhurthaya'],
+  	['Garuda Muhurthaya 15', '/2020/10/int-garuda-muhurthaya-ep15.html', 'garudaMuhurthaya'],
   	['IGI BIGI 39', '/2020/10/swarnavahini-igi-bigi-ep39.html', 'igiBigi'],
   	['AMALIYA 38', '/2020/10/swarnavahini-amaliya-ep38.html', 'amaliya'],
   	['Ravana 50', '/2020/10/tv-derana-ravana-season-2-ep50.html', 'ravanaSeason2'],
